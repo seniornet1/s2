@@ -12,5 +12,5 @@ https://github.com/MatsuriDayo/NekoBoxForAndroid/releases
 https://github.com/MatsuriDayo/plugins/releases/tag/juicity-test-3
 
 #### بعد از نصب پلاگین و اضافه کردن کانفیگ در Nekobox تیک allowInsecure رو باید فعال کنید
-#### برای V2RAYA ویندوز
+## برای V2RAYA ویندوز
 https://github.com/v2rayA/v2rayA/releases
